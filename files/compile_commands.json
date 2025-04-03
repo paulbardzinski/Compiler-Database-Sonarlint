@@ -1,0 +1,12 @@
+[
+    {
+        "directory":  "REPLACE_PATH",
+        "command":  "REPLACE_COMMAND",
+        "file":  "REPLACE_FILE"
+    },
+    {
+        "directory":  "REPLACE_PATH",
+        "command":  "g++ main.cpp -o main",
+        "file":  "main.cpp"
+    }
+]
